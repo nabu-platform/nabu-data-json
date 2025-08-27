@@ -14,5 +14,13 @@
 			<groupId>nabu.frameworks</groupId>
 			<artifactId>datastore</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>nabu.services</groupId>
+			<artifactId>vm</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>nabu</groupId>
+			<artifactId>utils</artifactId>
+		</dependency>
 	</dependencies>
 </project>
